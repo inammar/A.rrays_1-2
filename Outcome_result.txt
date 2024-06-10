@@ -1,0 +1,14 @@
+_____First task____
+[Liepa, Klevas, Obelis, Egle, Pusis, Berzas, Azuolas, Vysnia, Tuja, Slyva]
+
+_____Second task_____
+Liepa
+Klevas
+Obelis
+Egle
+Pusis
+Berzas
+Azuolas
+Vysnia
+Tuja
+Slyva
